@@ -14,9 +14,8 @@ function M = spblkdiag(varargin)
 
 % Authors:
 %{
-Name       : Rody P.S. Oldenhuis
-E-mail     : oldenhuis@gmail.com
-Affiliation: LuxSpace sàrl
+Name  : Rody P.S. Oldenhuis
+E-mail: oldenhuis@gmail.com
 %}
 
 % If you find this work useful, please consider a donation:
